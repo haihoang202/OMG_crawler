@@ -1,1 +1,1 @@
-web: node app
+web: node omg_crawler
