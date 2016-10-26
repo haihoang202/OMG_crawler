@@ -1,9 +1,9 @@
 {
-  "name": "devdacticBot",
+  "name": "omg_crawler",
   "version": "0.0.1",
   "description": "Simple testing Node server",
-  "main": "app.js",
-  "author": "Simon Reimler",
+  "main": "omg_crawler.js",
+  "author": "Hoang Pham",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.x.x",
