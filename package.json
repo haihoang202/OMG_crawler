@@ -10,6 +10,7 @@
     "ejs": "^2.5.2",
     "express": "^4.x.x",
     "request": "2.56.x",
-    "jade": "^1.0.4"
+    "jade": "^1.0.4",
+    "cheerio": "latest"
   }
 }
