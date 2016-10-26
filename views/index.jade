@@ -1,0 +1,11 @@
+doctype
+html
+ include header.html
+ body
+
+    form(name="crawl", action="/crawl", method="post")
+        div.input
+            span.label URL 
+            input(type="text", name="url", class="form-control")
+        div.actions
+            input(type="submit", value="Crawl", class="btn btn-default")
