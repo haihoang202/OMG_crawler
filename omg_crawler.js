@@ -16,7 +16,7 @@ app.set('view engine', 'jade');
 
 app.use(bodyParser.urlencoded({extended:true}));
 
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 8000;
 
 app.set('port',port);
 
